@@ -17,6 +17,7 @@
 - Site para dicas de java - http://www.javapractices.com
 - Java vai ser pago: http://www.softblue.com.br/blog/java-vai-ser-pago/
 - https://dzone.com/articles/java-collection-performance
+- Hamcrest - http://blog.caelum.com.br/melhorando-a-legibilidade-dos-seus-testes-com-o-hamcrest/
 
 
 ###### Resumo sobre herança e composição

@@ -2,6 +2,8 @@ package br.edu.unicesumar.type;
 
 import static org.junit.Assert.assertEquals;
 
+import org.hamcrest.Matcher;
+import org.junit.Assert;
 import org.junit.Test;
 
 public class BancosTest {

@@ -29,7 +29,12 @@ public class Lambda {
 		
 		//List<String> nomesFiltrados = nomes.stream().filter(s -> !s.equals("Fusca")).sorted().collect(Collectors.toList());
 		//nomesFiltrados.forEach(System.out::println);
-		//nomes.forEach(System.out::println);		
+		//nomes.forEach(System.out::println);	
+		
+		
+		
+		
+		
 
 		nomes.stream().filter(
 				s -> !s.equals("Fusca"))
