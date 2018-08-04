@@ -2,11 +2,7 @@ package br.edu.unicesumar.arquivos;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Optional;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
-
-import br.edu.unicesumar.type.Bancos;
 
 public class Lambda {
 

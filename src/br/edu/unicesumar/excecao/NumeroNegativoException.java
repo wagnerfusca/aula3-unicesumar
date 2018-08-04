@@ -1,6 +1,5 @@
 package br.edu.unicesumar.excecao;
 
-import java.io.FileNotFoundException;
 
 
 public class NumeroNegativoException extends Exception {

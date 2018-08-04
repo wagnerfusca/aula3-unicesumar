@@ -18,15 +18,11 @@ import java.io.ObjectOutputStream;
 import java.io.OutputStream;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Optional;
-import java.util.function.Consumer;
-import java.util.stream.Collectors;
 
 public class Arquivo {
 
 	public static void main(String[] args) {
-		//inputOutputJava7();
-		lerLambda();
+		inputOutputJava7();
 	}
 	
 	private static void inputOutputJava7() {
@@ -49,17 +45,6 @@ public class Arquivo {
 			System.out.println("Erro: " + ex);
 		}
 
-	}
-
-	private static void lerLambda(){
-		List<String> comandos = Arrays.asList("cima", "baixo", "direita", "esquerda");
-		//comandos.forEach(new ImprimeTexto());
-		//comandos.forEach((String s) -> System.out.println(s));
-		//comandos.forEach(s -> System.out.println(s));
-		//comandos.forEach(System.out::println);
-		
-		//List<String> lista = comandos.stream().filter(s -> !s.equals("cima")).sorted().collect(Collectors.toList());
-		//lista.forEach(System.out::println);
 	}
 
 	private static void inputOutputJava6() {
