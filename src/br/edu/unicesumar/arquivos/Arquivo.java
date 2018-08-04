@@ -51,7 +51,16 @@ public class Arquivo {
 
 	}
 
-	
+	private static void lerLambda(){
+		List<String> comandos = Arrays.asList("cima", "baixo", "direita", "esquerda");
+		//comandos.forEach(new ImprimeTexto());
+		//comandos.forEach((String s) -> System.out.println(s));
+		//comandos.forEach(s -> System.out.println(s));
+		//comandos.forEach(System.out::println);
+		
+		//List<String> lista = comandos.stream().filter(s -> !s.equals("cima")).sorted().collect(Collectors.toList());
+		//lista.forEach(System.out::println);
+	}
 
 	private static void inputOutputJava6() {
 		List<String> comandos = Arrays.asList("cima", "baixo", "direita", "esquerda");
