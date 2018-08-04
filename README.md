@@ -20,18 +20,18 @@
 
 
 ###### Resumo sobre herança e composição
----> herança : relacionamento forte: é um
----> associação direta: relacionamento fraco: tem um
----> agregação: relacionamento fraco: parte de	
----> composição: relacionamento forte: composta por
+- herança : relacionamento forte: é um
+- associação direta: relacionamento fraco: tem um
+- agregação: relacionamento fraco: parte de	
+- composição: relacionamento forte: composta por
 
 -------------------------
 ###### Exercício de interface
-Esportes (basquete, judô, futebol). 
-Regras
-Quantidade de pessoas no time
-tempoDePartida
-Pontuacao
+- Esportes (basquete, judô, futebol). 
+- Regras
+- Quantidade de pessoas no time
+- tempoDePartida
+- Pontuacao
 -----------------
 
 
